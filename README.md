@@ -17,7 +17,7 @@ TalkingData, China’s largest independent big data service platform, covers ove
             xgBoost.
 
 ### Hyper-Parameter Tuning Methods -
-            Bayesian optimization
+            Bayesian optimization  using skopt
 
 ### Cross-Validation method -
             StratifiedShuffleSplit
